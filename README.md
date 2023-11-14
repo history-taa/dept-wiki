@@ -6,4 +6,4 @@
 * [Join the TAA!](https://taa-madison.org/join/)
 
 ## What you can learn from this Wiki
-* Where does our money come from (and what levers do we have to change where it goes)?
+* [Where does our money come from](https://github.com/history-taa/dept-wiki/blob/main/funding.md) (and what levers do we have to change where it goes)?
