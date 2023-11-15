@@ -1,7 +1,7 @@
 # Funding!
 *Where does your paycheck come from? Who’s responsible for deciding how it’s spent?*
 
-Specific info for: [TAs](#Teaching-Assistanceships)
+Specific info for: [TAs](#Teaching-Assistanceships) | [PAs](#PAships) | [Fellows](#Fellowships) | [Summer Instructors](#Summer-instruction)
 
 # Overview
 This document covers where the History department gets its funding, specifically the funding that ultimately finds its way into our (that is, graduate workers’) pockets as paychecks, tuition remission, fringe benefits, and grants. Where your money comes from can (usually) be sussed out from how you get it; for instance, teaching assistant paychecks come from the university’s general funds, while those of us on fellowship are funded by a block grant from the graduate school that ultimately originates from WARF [see abbreviations below]. The path your money takes to your pocket is important for figuring out *who* has the power to change it—department admin? faculty shared governance organs? campus-wide institutions?
@@ -34,6 +34,8 @@ VCRGE then decides how many pre-dissertator and dissertator semesters of support
 
 Because History is one of the biggest departments, especially among those (usually social science/humanities) that *do not* typically pay their students off grant funding from sources like the NSF and NIH, we may represent one of the largest such grants from OVCRGE. 
 
+If you have external funding, from, e.g., FLAS, your pay may well be supplemented by VCRGE funds; we think this is why FLAS students are no longer paid much less than others. 
+
 ## PAships
 
 Most *research* PAships are also funded by WARF funding passed through OVCRGE, but in a slightly different way. This money is actually granted to *faculty* who apply in an annual competition for research funds. In this competition, priority is given to applications that would be paying a graduate assistant. However, despite being funded through OVCRGE using WARF funding, PAs usually find their employment situation is more similar to TAs than to fellows; they are on the hook for segregated fees, they are owe FICA tax on their payment, etc.
@@ -47,7 +49,7 @@ Other gift funds, though, can be sources of significant flexibility. If an enter
 
 ## Summer instruction
 
-This is a whole different ball game. Summer instructors are still paid as university employees, but the money comes to the department more directly from tuition. At one point, the department simply got half the tuition receipts for the summer classes they taught (the university is trying to encourage revenue-generating activities durring the summer, when it sees its human and physical resources as otherwise sitting idle; researchers who otherwise have very little time for, y’know, research, require hefty incentives to enter the classroom over the summer). We’re not exactly sure what the current status is, but it’s clear that summer enrollment is quite the moneymaker for the department. What’s less clear is where that surplus value goes!
+This is a whole different ball game. Summer instructors are still paid as university employees, but the money comes to the *department* more directly from tuition, rather than through the yearly application for TA lines that fund our fall/spring TAships. At one point, the department simply got half the tuition receipts for the summer classes they taught (the university is trying to encourage revenue-generating activities durring the summer, when it sees its human and physical resources as otherwise sitting idle; researchers who otherwise have very little time for, y’know, research, require hefty incentives to enter the classroom over the summer). We’re not exactly sure what the current status is, but it’s clear that summer enrollment is quite the moneymaker for the department. What’s less clear is where that surplus value goes!
 
 # Current questions
 *If you know the answer to any of these, you could make a pull request, but you could also contact us at [wisc.hist.taa@gmail.com](mailto:wisc.hist.taa@gmail.com) and we will either add you as a collaborator to this wiki or add the information you provide!*
