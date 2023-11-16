@@ -25,6 +25,8 @@ The university may, publically, play down the importance of teaching assistants�
 
 If the department still determines on its own the FTE percentage that a TAship represents, one potential lever to pull would be adjusting not our hourly rate, but the number of hours a given TAship represents. If we were expected to put, say 24 hr/wk (rather than 20) into a given TAship, our FTE would be 60% rather than 50%, which could represent effectively a 20% raise. 
 
+**Key People**: The Director of Undergraduate Studies, currently Kathryn Ciancia, is presumably pretty involved with asking L&S for the TA lines each year. Also, the Joint Committee on Teaching Assistants (JCOTA) presumably has some visibility here?
+
 ## Fellowships
 Fellowships are key to a History graduate student’s career: for pre-dissertators, fellowships enable us to focus on our classes; for dissertators, they enable us to research and write without being bound to living and working in Madison. Most history grads’ fellowships are funded through a block grant that WARF gives the university each year. OVCRGE then determines how the grant is divvied up between departments. The grants aren’t enumerated in terms of history 
 
@@ -36,11 +38,13 @@ Because History is one of the biggest departments, especially among those (usual
 
 If you have external funding, from, e.g., FLAS, your pay may well be supplemented by VCRGE funds; we think this is why FLAS students are no longer paid much less than others. 
 
+**Key People**: There’ll be someone in each grad program (History and HSMT are separate programs) who prepares the program’s application for the block grant each year; in HSMT they’re titled “program lead” but the title may be different for History. 
+
 ## PAships
 
 Most *research* PAships are also funded by WARF funding passed through OVCRGE, but in a slightly different way. This money is actually granted to *faculty* who apply in an annual competition for research funds. In this competition, priority is given to applications that would be paying a graduate assistant. However, despite being funded through OVCRGE using WARF funding, PAs usually find their employment situation is more similar to TAs than to fellows; they are on the hook for segregated fees, they are owe FICA tax on their payment, etc.
 
-*We think the pedagogy PAship was funded with Gift Fund monies (see below) but we’re not sure!*
+**Key People**: Any faculty member is a key person for this if they’re applying for research funds!
 
 ## Gift Funds
 Most history graduates’s fellowships are funded through these block grants from VCRGE to History or HSMT, but if the program wants to admit more students than the VCRGE grant allows, they can often cover this with gift funds. Gift funds are also used to cover other payments that the History department decides are in students’ interest: for instance, research and conference travel funding, the $2,000 summer funds we’ve been getting, etc. 
@@ -49,9 +53,16 @@ Gift funds are administered by WARF, but are a separate pot of money, sometimes 
 
 Other gift funds, though, can be sources of significant flexibility. If an entering class has a low yield rate, resulting in fewer incoming students than expected the department will try to fund as little of that as possible through gift funds, so that they can roll them over and use them to fund a class with an unexpectedly high yield. Gift funds can also cover unforseen needs; if another funding source falls through at the last minute, the department may draw on gift funds to meet its funding obligations to the student. Given this flexibility, they may be a good focus for organizing for department-level financial goals. **However, neither faculty nor graduates students have much visibility into how these funds are managed, so more mapping is needed there.**
 
+*We think the pedagogy PAship was funded with Gift Fund monies (see below) but we’re not sure!*
+
+**Key People**: We think the Associate Chair does a lot with fundraising, and therefore probably has some say or at least visibility into how these funds are spent. 
+
 ## Summer instruction
 
 This is a whole different ball game. Summer instructors are still paid as university employees, but the money comes to the *department* more directly from tuition, rather than through the yearly application for TA lines that fund our fall/spring TAships. At one point, the department simply got half the tuition receipts for the summer classes they taught (the university is trying to encourage revenue-generating activities durring the summer, when it sees its human and physical resources as otherwise sitting idle; researchers who otherwise have very little time for, y’know, research, require hefty incentives to enter the classroom over the summer). We’re not exactly sure what the current status is, but it’s clear that summer enrollment is quite the moneymaker for the department. What’s less clear is where that surplus value goes!
+
+**Key People**: Like TAships, the Director of Undergraduate Studies and JCOTA will do a lot with managing which classes are going to be taught each year. 
+
 
 # Current questions
 *If you know the answer to any of these, you could make a pull request, but you could also contact us at [wisc.hist.taa@gmail.com](mailto:wisc.hist.taa@gmail.com) and we will either add you as a collaborator to this wiki or add the information you provide!*
