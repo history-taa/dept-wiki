@@ -40,6 +40,8 @@ If you have external funding, from, e.g., FLAS, your pay may well be supplemente
 
 Most *research* PAships are also funded by WARF funding passed through OVCRGE, but in a slightly different way. This money is actually granted to *faculty* who apply in an annual competition for research funds. In this competition, priority is given to applications that would be paying a graduate assistant. However, despite being funded through OVCRGE using WARF funding, PAs usually find their employment situation is more similar to TAs than to fellows; they are on the hook for segregated fees, they are owe FICA tax on their payment, etc.
 
+*We think the pedagogy PAship was funded with Gift Fund monies (see below) but we’re not sure!*
+
 ## Gift Funds
 Most history graduates’s fellowships are funded through these block grants from VCRGE to History or HSMT, but if the program wants to admit more students than the VCRGE grant allows, they can often cover this with gift funds. Gift funds are also used to cover other payments that the History department decides are in students’ interest: for instance, research and conference travel funding, the $2,000 summer funds we’ve been getting, etc. 
 
